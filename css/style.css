@@ -3,6 +3,9 @@ h1 {
   color: white;
   font-family: cursive;
 }
+#headingOne{
+  top: 50px;
+}
 
 #basictext {
   font-family: Arial, Helvetica, sans-serif;
@@ -10,4 +13,20 @@ h1 {
 
 .boxbuttons {
   display: block;
+}
+
+.mynav{
+  height: 50px;
+  width: 100%;
+  background-color: purple;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+ h2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  left: 0px;
+  top: 0px;
+  position: absolute;
 }
